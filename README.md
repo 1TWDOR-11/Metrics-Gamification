@@ -39,4 +39,5 @@ Protótipo no Figma : https://www.figma.com/proto/V0GeZZPpSvOSJyF0FnPUIQ/Evorun?
 Repositório no GitHub :  https://github.com/fiap-webdesign/enterprise-challenge-evorun
 
 Apresentação em Vídeo – YouTube : https://www.youtube.com/watch?v=WxiX6r2ZceU&ab_channel=Hanna
+
 Apresentação em Vídeo APP – YouTube : https://youtube.com/shorts/eRoWffpwRgg
